@@ -1,4 +1,4 @@
-# List-Maker
+# ListMK | Generate numbers
 
 ##Installation and Using
 ```bash
@@ -19,4 +19,5 @@ $ python ListMK.py
 ```
 
 
-$ developers : @RKRK * 2020
+# developers : @RKRK * 2020
+# insta | 5i.tm
