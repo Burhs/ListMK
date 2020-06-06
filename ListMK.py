@@ -22,14 +22,14 @@ time.sleep(1)
 #(outlook.sa)
 #(Yahoo.com)
 #================================================
-uesr = '078' #اليوزر المراد التخمين عليه بين النقطتين اكتبه 
+uesr = 'abc' #اليوزر المراد التخمين عليه بين النقطتين اكتبه 
 chars2 = 'qwertyuiopasdfghjklzxcvbnm1234567890' #ارقام واحرف لو ترغب
 email = '@hotmail.com'#اختار نطاق معين مثل هوتميل او جميل 
 print('=========================================')
 amount = input('What is a number List: ')
-amount = int(amount)
+amount = int(str(amount))
 length2 = input('How many letters or numbers do you want to add?: ')
-length2 = int(length2)
+length2 = int(str(length2))
 
 print('==================================')
 
