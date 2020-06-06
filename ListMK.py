@@ -5,11 +5,11 @@ import time
 
 os.system("clear")
 os.system("figlet Attack Starting")
-print("Author | arhaby")
+print("Author | MaThEW")
 time.sleep(2)
-print("Telegram | @rhaby")
+print("Telegram | @rkrkq")
 time.sleep(1)
-print("ChannelTelegram | @ciku370")
+print("ChannelTelegram | @vvpvr")
 time.sleep(1)
 
 
