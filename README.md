@@ -10,10 +10,13 @@ $ pkg install python
 
 $ pkg install git
 
-$ git clone https://github.com/rhaby/Lisr-Maker
+$ git clone https://github.com/Burhs/ListMK
 
-$ cd List-Maker
+$ cd ListMK
 
-$ python 'List maker.py'
+$ python 'ListMK.py'
 
 ```
+
+
+$ developers : @RKRK * 2020
