@@ -14,7 +14,7 @@ $ git clone https://github.com/Burhs/ListMK
 
 $ cd ListMK
 
-$ python 'ListMK.py'
+$ python ListMK.py
 
 ```
 
